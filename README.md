@@ -4,7 +4,7 @@
 ## Sumário
 
 <!-- toc -->
-  *[Introdução](introducao)
+  [Introdução](introducao)
   
   -------------------------
   <h2 id= "introducao">Introdução</h2>
